@@ -56,19 +56,29 @@ Styling	Custom CSS, Gradients, Animations
 📂 Project Structure
 shopaholic/
 │
+
 ├── shop/           # Products, cart, checkout, orders
+
 ├── userapp/        # User authentication (login, register)
+
 ├── adminapp/       # Custom admin dashboard
+
 ├── templates/      # HTML templates
+
 ├── static/         # CSS & assets
+
 ├── media/          # Product images
+
 ├── db.sqlite3
+
 ├── manage.py
+
 └── README.md
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/shopaholic.git
+git clone https://github.com/khushietiwari/Shopaholic-An-e-commerce-website-for-clothes-and-more
 cd shopaholic
 
 2️⃣ Create Virtual Environment
@@ -115,6 +125,7 @@ Cart & Checkout
 
 <img width="1366" height="687" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/58c824e6-cbcf-4887-820a-c7b06dcb83cf" />
 Admin Dashboard
+
 
 🎯 Learning Outcomes
 
