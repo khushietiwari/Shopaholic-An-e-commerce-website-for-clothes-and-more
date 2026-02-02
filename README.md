@@ -123,9 +123,6 @@ Product Detail
 <img width="1366" height="669" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/263ae01e-8f32-4feb-8b88-1c36dcdc745f" />
 Cart & Checkout
 
-<img width="1366" height="687" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/58c824e6-cbcf-4887-820a-c7b06dcb83cf" />
-Admin Dashboard
-
 
 🎯 Learning Outcomes
 
