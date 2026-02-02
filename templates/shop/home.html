@@ -1,0 +1,42 @@
+{% extends 'shop/base.html' %}
+
+{% block content %}
+
+<!-- HERO SECTION -->
+<div class="text-center py-5">
+  <h1 class="fw-bold display-5">Discover Your Style</h1>
+  <p class="text-muted fs-5 mt-2">
+    Trendy fashion designed to make you feel confident every day
+  </p>
+
+ <a href="{% url 'shop:collection' %}" class="btn btn-cta">
+  Shop Collection
+</a>
+
+</div>
+
+<!-- WHY SHOP WITH US -->
+<div class="row text-center mt-5">
+  <div class="col-md-4">
+    <h5 class="fw-bold">Premium Quality</h5>
+    <p class="text-muted">
+      Carefully selected fabrics and modern designs
+    </p>
+  </div>
+
+  <div class="col-md-4">
+    <h5 class="fw-bold">Affordable Prices</h5>
+    <p class="text-muted">
+      Fashion that fits your style and budget
+    </p>
+  </div>
+
+  <div class="col-md-4">
+    <h5 class="fw-bold">Fast Delivery</h5>
+    <p class="text-muted">
+      Reliable and quick shipping
+    </p>
+  </div>
+</div>
+
+{% endblock %}
