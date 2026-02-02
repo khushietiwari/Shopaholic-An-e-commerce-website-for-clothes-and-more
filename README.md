@@ -100,7 +100,7 @@ Admin Dashboard	/dashboard/
 Django Admin	/admin/
 📸 Screenshots
 
-<img width="1366" height="768" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/8a82f4f1-075e-4cf5-b8a3-cdd68e0efd5c" />
+<img width="1366" height="657" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/11a33268-923a-4558-b791-272caeccc8ca" />
 
 
 Home Page
