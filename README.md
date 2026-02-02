@@ -101,16 +101,19 @@ Django Admin	/admin/
 📸 Screenshots
 
 <img width="1366" height="657" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/11a33268-923a-4558-b791-272caeccc8ca" />
-
-
 Home Page
 
+
+<img width="1366" height="669" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/93dc4c21-80f6-4689-8d80-19e1f4135c75" />
 Collection Page
 
+<img width="1366" height="633" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/ec4e6164-4928-4c07-81ef-2261bdb2b176" />
 Product Detail
 
+<img width="1366" height="669" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/263ae01e-8f32-4feb-8b88-1c36dcdc745f" />
 Cart & Checkout
 
+<img width="1366" height="687" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/58c824e6-cbcf-4887-820a-c7b06dcb83cf" />
 Admin Dashboard
 
 🎯 Learning Outcomes
