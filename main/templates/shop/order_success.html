@@ -1,0 +1,16 @@
+{% extends 'shop/base.html' %}
+
+{% block content %}
+
+<div class="text-center py-5">
+  <h2 class="fw-bold">🎉 Order Placed Successfully!</h2>
+  <p class="text-muted mt-2">
+    Thank you for shopping with us.
+  </p>
+
+  <a href="{% url 'shop:collection' %}" class= "btn btn-gradient btn-sm w-100">
+    Continue Shopping
+  </a>
+</div>
+
+{% endblock %}
